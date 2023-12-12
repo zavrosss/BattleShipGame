@@ -1,0 +1,16 @@
+C:\Users\Szymon\Documents\GraStatki\GraStatki\bin\Debug\GraStatki.exe.config
+C:\Users\Szymon\Documents\GraStatki\GraStatki\bin\Debug\GraStatki.exe
+C:\Users\Szymon\Documents\GraStatki\GraStatki\bin\Debug\GraStatki.pdb
+C:\Users\Szymon\Documents\GraStatki\GraStatki\obj\Debug\GraStatki.csproj.AssemblyReference.cache
+C:\Users\Szymon\Documents\GraStatki\GraStatki\obj\Debug\GraStatki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szymon\Documents\GraStatki\GraStatki\obj\Debug\GraStatki.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Documents\GraStatki\GraStatki\obj\Debug\GraStatki.exe
+C:\Users\Szymon\Documents\GraStatki\GraStatki\obj\Debug\GraStatki.pdb
+C:\Users\Szymon\Desktop\GraStatki\bin\Debug\GraStatki.exe.config
+C:\Users\Szymon\Desktop\GraStatki\bin\Debug\GraStatki.exe
+C:\Users\Szymon\Desktop\GraStatki\bin\Debug\GraStatki.pdb
+C:\Users\Szymon\Desktop\GraStatki\obj\Debug\GraStatki.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\GraStatki\obj\Debug\GraStatki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szymon\Desktop\GraStatki\obj\Debug\GraStatki.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\GraStatki\obj\Debug\GraStatki.exe
+C:\Users\Szymon\Desktop\GraStatki\obj\Debug\GraStatki.pdb
